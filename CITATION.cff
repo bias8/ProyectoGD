@@ -2,21 +2,25 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB; SPYDER
-message: lenguaje m; python
+title: MATLAB; 
+message: lenguaje m; 
 type: software
 authors:
   - given-names: Alberto
     family-names: Villalobos V.
     email: L22212277@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/l22212277-stack/Practica1MSF'
+  - given-names: Bricia
+    family-names: Arellano S.
+    email: L22211746@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/bias8/ProyectoGD'
 keywords:
-  - Simulaciones numéricas
+  - EDO
   - Modelo matemático
-  - Sistema respiratorio
-  - Controlador I
-  - Circuito RLC
+  - PID
+  - Gemelos digitales
+  - Poblaciones celulares
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-09'
+date-released: '2026-05-20'
