@@ -55,3 +55,5 @@ donde todos los parámetros son estrictamente positivos y se asume una dinámica
 [2] De Leenheer, P., & Aeyels, D. (2001). Stabilization of positive linear systems. Systems & Control Letters, 44(4), 259-271.
 
 [3] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: [https://www.simiode.org/resources/8307](https://www.simiode.org/resources/8307)
+
+[4] E. Toscano, E. Cimmino, A. Boccia, L. Sepe, and G. Paolella, “Cell populations simulated *in silico* within SimulCell accurately reproduce the behaviour of experimental cell cultures,” *npj Systems Biology and Applications*, vol. 11, no. 1, p. 48, 2025. doi: 10.1038/s41540-025-00518-w.
