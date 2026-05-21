@@ -1,11 +1,5 @@
 # ProyectoGD
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=bias8/ProyectoGD)
-¡Entendido! Vamos a fusionar la información de tu proyecto (con Bricia) utilizando exactamente la misma estructura, redacción introductoria y formato del primer README que me compartiste.
-
-Aquí tienes el README adaptado:
-
----
-
 # Proyecto: Modelo matemático de poblaciones celulares
 
 ### Información de los estudiantes
