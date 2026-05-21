@@ -51,5 +51,7 @@ donde todos los parámetros son estrictamente positivos y se asume una dinámica
 ### Referencias
 
 [1] P. A. Valle, Syllabus para Gemelos Digitales, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2026. Permalink: [https://biomath.xyz/course/](https://biomath.xyz/course/)
+
 [2] De Leenheer, P., & Aeyels, D. (2001). Stabilization of positive linear systems. Systems & Control Letters, 44(4), 259-271.
+
 [3] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: [https://www.simiode.org/resources/8307](https://www.simiode.org/resources/8307)
